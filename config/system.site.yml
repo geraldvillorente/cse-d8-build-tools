@@ -1,0 +1,14 @@
+uuid: 3858e2a7-d345-4d77-b682-c58110abda2d
+name: cse-d8-build-tools
+mail: geraldvillorente@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
